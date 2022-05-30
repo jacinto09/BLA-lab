@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BLA-lab/static/css/main.70e3209b.css",
+    "main.css": "/BLA-lab/static/css/main.59f815d8.css",
     "main.js": "/BLA-lab/static/js/main.da38f875.js",
     "static/media/video-background.mp4": "/BLA-lab/static/media/video-background.96deb0eb6ec5c2ccc43a.mp4",
     "static/media/Cocktails.jpg": "/BLA-lab/static/media/Cocktails.b369c70f297b8edd91cf.jpg",
@@ -8,11 +8,11 @@
     "static/media/background3.jpg": "/BLA-lab/static/media/background3.f99aaffb6d0472b72f6e.jpg",
     "static/media/Bruno.jpg": "/BLA-lab/static/media/Bruno.c178d20ecf9ac053deec.jpg",
     "index.html": "/BLA-lab/index.html",
-    "main.70e3209b.css.map": "/BLA-lab/static/css/main.70e3209b.css.map",
+    "main.59f815d8.css.map": "/BLA-lab/static/css/main.59f815d8.css.map",
     "main.da38f875.js.map": "/BLA-lab/static/js/main.da38f875.js.map"
   },
   "entrypoints": [
-    "static/css/main.70e3209b.css",
+    "static/css/main.59f815d8.css",
     "static/js/main.da38f875.js"
   ]
 }
